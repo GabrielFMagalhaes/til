@@ -24,6 +24,7 @@ Ao utilizar todo o seu ecossistema, que o React permite, podemos chama-lo de Fra
 ## Vantagens
 
 * Componentização
+
 Divisão de partes do código por componentes, a fim de isolar funcionalidades da aplicação.
 
 * Divisão de responsabilidades
@@ -31,9 +32,11 @@ Divisão de partes do código por componentes, a fim de isolar funcionalidades d
 2. Front-end: Interface
 
 * API
+
 Construção de APIs (únicas) para ser utilizada por múltiplos clientes (Mobile e Web).
 
 * Programação Declarativa
+
 Quais resultados são esperados pela aplicação
 
 São gerenciadores de pacotes (para instalar bibliotecas de terceiros).
