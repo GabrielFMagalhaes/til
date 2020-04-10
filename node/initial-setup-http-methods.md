@@ -3,14 +3,19 @@
 Para inicializar um projeto NodeJS
 
 Preparando pasta e package.json
-> yarn init -y
+```
+yarn init -y
+```
 
 Adicionando framework
-> yarn add express -D
+```
+yarn add express -D
+```
 
 Ferramenta para automatizar start do servidor
-> yarn add nodemon -D
-
+```
+yarn add nodemon -D
+```
 
 ## Métodos HTTP
  
