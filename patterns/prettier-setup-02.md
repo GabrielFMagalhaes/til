@@ -1,4 +1,6 @@
 # Prettier
+
+Pacote utilizado para "embelezar" o código.
 ```
 yarn add prettier eslint-config-prettier eslint-plugin-prettier -D
 ```
