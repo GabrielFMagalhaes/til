@@ -22,3 +22,30 @@ Alinhamentos são utilizados para posicionar itens na tela, verticalmente ou hor
 align-items: flex-start;
 justify-content: flex-start;
 ```
+
+## Redimensionamento
+
+Utilizado para caber todos os itens na tela ou redimensiona-los
+```
+flex-grow: 1;
+flex-shrink: 1;
+```
+Ou, podemos utilizar somente o seguinte comando:
+```
+flex: 1;
+```
+
+## Wrap Itens
+
+Utilizado para alinhar itens quando o seu tamanho maximo for ultrapassado (quebra de linha)
+```
+flex-wrap: wrap;
+justify-content: space-between;
+```
+
+## Ordenação
+
+Para efetivar uma melhoria do layout responsivo, podemos trocar as ordens em que um elemento é exibido em tela.
+```
+order: 1;
+```

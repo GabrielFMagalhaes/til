@@ -19,7 +19,7 @@ O Expo tem limitação sobre o controle do código nativo. Além de diversas bib
 
 Primeiramente, instale o React-Native e prepare o projeto:
 ```
-npx react-native init appgobarber --template react-native-template-typescript
+npx react-native init nomeaqui --template react-native-template-typescript
 ```
 
 Para iniciar o projeto, será necessário fazer uso de emuladores ou dispositivos físicos.
