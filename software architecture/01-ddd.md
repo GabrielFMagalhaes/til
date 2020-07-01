@@ -33,4 +33,5 @@ Dita boas praticas para isolamento das camadas de integrações do projeto.
 * Dependency Inversion Principle
 Devemos depender de abstrações e não das implementações
 
-* Dependency Inversion 
+* Dependency Injection 
+Permnite a criação de objetos dependentes por fora da classe, e provê tais objetos para uma classe.
