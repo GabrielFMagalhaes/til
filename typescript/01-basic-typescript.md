@@ -1,6 +1,6 @@
 # TypeScript
 
-É uma linguagem tipada, totalmente baseada em JavaScript.
+É uma biblioteca no Javascript que adiciona tipagem.
 Ele permite utilizar as features mais recentes do JavaScript. Convertendo o código de uma sintaxe recente para uma antiga conhecida.
 
 

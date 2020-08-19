@@ -1,4 +1,4 @@
-# Preparando o Docker
+# Imagem no Docker
 
 Será configurado um banco de dados (Postgres) no docker.
 Primeiramente, procure no Docker Hub a imagem do postgres e cheque as necessidades para utilizar a imagem.
